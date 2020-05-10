@@ -1,1 +1,2 @@
 data/* filter=lfs diff=lfs merge=lfs -text
+data/ratings.dat filter=lfs diff=lfs merge=lfs -text
